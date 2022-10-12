@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrAntonS
+- 👀 I’m interested in AI, App development
+- 🌱 I’m currently learning AI, networking
+- 💞️ I’m looking to collaborate on AI projects xD
