@@ -2,7 +2,8 @@
 # About me:
 * A python 🐍 programmer with passion for mobile and desktop application. 
 * Use Linux as daily driver. 
-* Exited for AI era. 
+* Exited for AI era.
+* Fediverse Fan
 * Support open source. Happy to help with any project to the best of my ability. 
 # My current Projects: 
 
@@ -16,4 +17,5 @@
 
 ### I am always looking for new opportinities.
 LinkedIn: [Anton Saenko](https://www.linkedin.com/in/anton-saenko/)\
+Mastodon: [BigBon](https://techhub.social/@bigbon)
 Telegram: [@LoveCalus](https://t.me/LoveCalus) 
