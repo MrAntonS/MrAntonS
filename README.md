@@ -17,5 +17,5 @@
 
 ### I am always looking for new opportinities.
 LinkedIn: [Anton Saenko](https://www.linkedin.com/in/anton-saenko/)\
-Mastodon: [BigBon](https://techhub.social/@bigbon)
+Mastodon: [BigBon](https://techhub.social/@bigbon)\
 Telegram: [@LoveCalus](https://t.me/LoveCalus) 
