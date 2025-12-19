@@ -14,7 +14,7 @@
 
 1. 🤖 [Deep Learning from scratch](https://github.com/MrAntonS/ML22) | Numpy | Python
 2. ✈️ Airplane Tracker(Old) | Python
-3. ConvNet, a terminal emulator
+3. [ConvNet](https://github.com/MrAntonS/Convenient-Networking), a terminal emulator
 4. 📱 [Couples App(Client, and Server) | C++](https://github.com/smower476/couples_app)
 5. 📱 [Thunder | Dart](https://github.com/hjiangsu/thunder)
 
